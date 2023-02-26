@@ -1,0 +1,364 @@
+TEAM,OUTCOME_PREDICTED
+Houston,10.376
+Alabama,14.46
+Arizona,19.266
+Kansas,21.73
+Purdue,22.216
+Saint Marys,26.458
+San Diego St,29.23
+Tennessee,29.768
+Gonzaga,31.312
+Marquette,34.864
+UCLA  A  Colorado,35.278
+Baylor,35.404
+Texas,35.71
+Connecticut,36.696
+Kansas St,42.544
+Texas AM,43.816
+Memphis  H  Cincinnati,46.754
+Arkansas,48.158
+Duke,50.432
+Maryland  H  Northwestern,55.032
+Kentucky,58.052
+New Mexico,58.808
+TCU,59.236
+Xavier,59.954
+Creighton,60.284
+Virginia,60.472
+College of Charleston,62.168
+Michigan St,62.654
+Florida Atlantic,62.98
+Miami FL,63.252
+Auburn,63.552
+Providence  A  Georgetown,65.816
+Indiana,66.528
+Utah St,66.976
+Boise St,68.532
+Nevada,69.496
+North Carolina St,69.872
+USC,71.82
+Illinois  A  Ohio St,72.088
+Northwestern  A  Maryland,73.116
+Tulane  H  Wichita St,74.664
+Iowa St,76.088
+Iona  H  Siena,76.184
+Rutgers  A  Penn St,78.432
+Oral Roberts,78.744
+Drake  A  Bradley,80.948
+Liberty,81.944
+North Carolina,82.404
+UMass Lowell,83.248
+Indiana St  H  Missouri St,83.352
+Kent St,84.072
+Vermont,84.36
+Missouri,85.028
+Arizona St,86.232
+VCU,87.824
+UNC Asheville,87.888
+Fordham,88.328
+West Virginia,89.016
+Marshall,89.712
+Iowa,89.816
+Penn St  H  Rutgers,90.024
+Mississippi St,90.824
+Utah,93.008
+Cincinnati  A  Memphis,93.736
+Southern Miss,94.136
+Clemson,94.272
+Furman,94.44
+Hofstra,94.616
+Kennesaw St,95.08
+Louisiana Lafayette,95.248
+Sam Houston St,95.708
+Wisconsin  A  Michigan,96.568
+Youngstown St,97.456
+Pittsburgh,99.8
+Colgate,100.592
+Michigan  H  Wisconsin,100.76
+UAB,101.092
+Western Illinois,101.664
+North Texas,102.832
+Santa Clara,102.928
+UC Santa Barbara,103.224
+Toledo,103.36
+Utah Valley,104.256
+Grambling St,104.52
+Belmont  A  Northern Iowa,104.672
+Fairleigh Dickinson,105.352
+Northwestern St,105.752
+Eastern Washington,106.056
+Bradley  H  Drake,106.512
+UNC Wilmington,106.744
+Dayton,107.08
+Montana St,107.768
+Duquesne  H  Davidson,110.0
+Washington  A  Stanford,110.648
+Southern Illinois  A  Illinois Chicago,111.36
+Queens,111.464
+Yale,111.48
+Cleveland St,111.544
+Texas Tech,111.968
+Fort Wayne,112.104
+Cal St Fullerton,112.32
+Norfolk St,113.04
+South Dakota St,113.056
+Notre Dame,113.152
+Rice,113.72
+Hawaii,113.784
+North Carolina Central,114.064
+Oregon,114.152
+San Jose St,114.448
+Oklahoma St,114.824
+UCF  A  Tulsa,115.08
+Samford,115.312
+Charlotte,115.584
+Towson,115.696
+UC Irvine,115.736
+Ball St,116.144
+Siena  A  Iona,116.216
+Quinnipiac  H  Manhattan,116.384
+Saint Louis,116.392
+Milwaukee,116.688
+Morehead St,116.704
+UC Riverside,117.152
+Lipscomb,117.488
+UC Davis,117.648
+James Madison,117.736
+Vanderbilt,117.984
+Stetson,118.056
+St Thomas,118.68
+Northern Kentucky,118.704
+Ohio,118.784
+Seattle,118.936
+Alcorn St,119.232
+Murray St  H  Valparaiso,119.784
+Eastern Kentucky,119.784
+South Alabama,119.96
+Longwood,120.096
+Syracuse,120.224
+Howard,120.288
+UMBC,120.32
+Drexel,120.576
+Virginia Tech,120.936
+Maryland Eastern Shore,121.104
+Princeton,121.144
+St Johns,121.312
+North Alabama,121.336
+Old Dominion,122.048
+Tennessee Martin,122.08
+Nebraska,122.416
+Oklahoma,122.48
+George Washington,123.048
+Washington St,123.192
+Akron,123.536
+Rider  H  Mount St Marys,123.72
+Wagner,124.248
+Navy,124.288
+Portland,124.416
+Prairie View AM,124.544
+Southern,124.544
+Georgia,124.792
+Wake Forest,124.872
+Wichita St  A  Tulane,124.912
+Southeastern Louisiana,124.984
+American,125.0
+Seton Hall,125.248
+Appalachian St,125.248
+Tennessee St,125.328
+UNLV,125.512
+Brown,125.512
+Stephen F Austin  H  Cal Baptist,125.632
+UNC Greensboro,125.704
+George Mason,125.728
+Colorado  H  UCLA,125.912
+Texas AM Corpus Chris,125.912
+North Dakota St,125.952
+Western Carolina,126.08
+Loyola Marymount,126.216
+Delaware,126.216
+Villanova,126.304
+SIU Edwardsville,126.336
+Radford,126.352
+New Hampshire,126.352
+Wofford,126.464
+Harvard,126.56
+Penn,126.592
+Lehigh,126.64
+Cornell,126.648
+Florida Gulf Coast,126.856
+Wright St,126.856
+Troy,126.856
+Bethune Cookman,126.976
+Cal Baptist  A  Stephen F Austin,127.032
+San Francisco,127.104
+Mississippi Valley St,127.104
+Weber St,127.112
+Middle Tennessee,127.12
+UT Rio Grande Valley,127.128
+Richmond,127.232
+Montana,127.264
+Louisiana Monroe,127.28
+Southern Utah,127.36
+Winthrop,127.36
+Grand Canyon,127.36
+Bryant,127.368
+Ohio St  H  Illinois,127.488
+Hampton,127.488
+Denver,127.488
+St Francis PA,127.52
+Northern Iowa  H  Belmont,127.616
+Coastal Carolina,127.616
+Colorado St,127.616
+Georgia St,127.616
+Niagara  H  Saint Peters,127.624
+St Francis NY,127.624
+Air Force,127.64
+Georgia Southern,127.744
+Tarleton St,127.744
+Morgan St,127.744
+North Florida,127.744
+Georgia Tech,127.752
+Sacred Heart,127.752
+Georgetown  H  Providence,127.872
+Boston University,127.872
+Missouri St  A  Indiana St,127.872
+Butler,127.872
+South Dakota,127.872
+East Carolina,127.872
+Lafayette,127.872
+Oakland,127.872
+Florida,127.872
+Massachusetts,127.872
+Utah Tech,127.872
+North Carolina AT,127.88
+Minnesota,127.88
+Merrimack,127.88
+Fairfield  A  Canisius,127.88
+Sacramento St,127.88
+Manhattan  A  Quinnipiac,128.0
+Texas Southern,128.0
+Idaho,128.0
+Arkansas St,128.0
+Texas AM Commerce,128.0
+Northeastern,128.0
+Cal Poly,128.0
+Jackson St,128.0
+High Point,128.0
+Elon,128.0
+William  Mary,128.0
+Binghamton,128.0
+Marist,128.0
+Eastern Michigan,128.0
+UMKC,128.0
+Chicago St,128.0
+South Florida,128.0
+Buffalo,128.0
+Saint Peters  A  Niagara,128.0
+Central Connecticut,128.0
+Lindenwood,128.0
+Houston Christian,128.0
+Evansville  A  Illinois St,128.0
+Coppin St,128.0
+Albany,128.0
+Eastern Illinois,128.0
+Alabama St,128.0
+VMI,128.0
+Delaware St,128.0
+Monmouth,128.0
+Florida AM,128.0
+Lamar,128.0
+IUPUI,128.0
+Green Bay,128.0
+Holy Cross,128.0
+Columbia,128.0
+Presbyterian,128.0
+Stony Brook,128.0
+Alabama AM,128.0
+Nebraska Omaha,128.0
+Stonehill,128.0
+NJIT,128.0
+Cal St Northridge,128.0
+Loyola MD,128.0
+The Citadel,128.0
+Arkansas Pine Bluff,128.0
+Western Michigan,128.0
+McNeese St,128.0
+Little Rock,128.0
+Central Arkansas,128.0
+Incarnate Word,128.0
+Central Michigan,128.0
+South Carolina St,128.0
+New Orleans,128.0
+Austin Peay,128.0
+Charleston Southern,128.0
+Maine,128.0
+Bucknell,128.0
+Loyola Chicago,128.0
+Mercer,128.0
+Detroit,128.0
+Rhode Island,128.0
+Portland St,128.0
+Jacksonville,128.0
+Army,128.0
+La Salle,128.0
+Texas St,128.0
+Oregon St,128.0
+DePaul,128.0
+FIU,128.0
+SMU,128.0
+Western Kentucky,128.0
+San Diego,128.0
+New Mexico St,128.0
+Florida St,128.0
+Pepperdine,128.0
+Stanford  H  Washington,128.0
+Hartford,128.0
+Pacific,128.0
+Saint Josephs  A  St Bonaventure,128.0
+St Bonaventure  H  Saint Josephs,128.0
+Wyoming,128.0
+BYU,128.0
+UTEP,128.0
+Abilene Christian,128.0
+Temple,128.0
+Louisiana Tech,128.0
+Gardner Webb,128.0
+Chattanooga,128.0
+Boston College,128.0
+Northern Colorado,128.0
+UT Arlington,128.0
+UC San Diego,128.0
+Long Beach St,128.0
+Canisius  H  Fairfield,128.0
+Southeast Missouri St,128.0
+Fresno St,128.0
+Mount St Marys  A  Rider,128.0
+North Dakota,128.0
+Illinois Chicago  H  Southern Illinois,128.0
+Dartmouth,128.0
+Louisville,128.0
+Cal St Bakersfield,128.0
+Valparaiso  A  Murray St,128.0
+Tennessee Tech,128.0
+Miami OH,128.0
+Illinois St  H  Evansville,128.0
+Tulsa  H  UCF,128.0
+UTSA,128.0
+Southern Indiana,128.0
+USC Upstate,128.0
+Campbell,128.0
+East Tennessee St,128.0
+South Carolina,128.0
+Jacksonville St,128.0
+Northern Arizona,128.0
+Idaho St,128.0
+California,128.0
+Northern Illinois,128.0
+Nicholls St,128.0
+Bellarmine,128.0
+Bowling Green,128.0
+Mississippi,128.0
+Davidson  A  Duquesne,128.0
+LSU,128.0
+Robert Morris,128.0
+LIU Brooklyn,128.0
