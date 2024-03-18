@@ -95,6 +95,8 @@ def featurize(table: pd.DataFrame) -> pd.DataFrame:
     table['2pd_pct'] = strip_and_make_0_float(table['2pd_pct'])
     table['3p_pct'] = strip_and_make_0_float(table['3p_pct'])
     table['3pd_pct'] = strip_and_make_0_float(table['3pd_pct'])
+    table['3pr'] = strip_and_make_0_float(table['3pr'])
+    table['3prd'] = strip_and_make_0_float(table['3prd'])
     table['adj_t'] = strip_and_make_0_float(table['adj_t'])
     table['wab'] = strip_and_make_0_float(table['wab'])
 

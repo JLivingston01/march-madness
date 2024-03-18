@@ -21,7 +21,8 @@ def load_page(url: str) -> pd.DataFrame:
 
     table.columns = [
         'rk','team','conf','g','rec','adjoe','adjde','barthag','efg_pct','efgd_pct',
-        'tor','tord','orb','drb','ftr','ftrd','2p_pct','2pd_pct','3p_pct','3pd_pct','adj_t','wab'
+        'tor','tord','orb','drb','ftr','ftrd','2p_pct','2pd_pct','3p_pct','3pd_pct','3pr','3prd',
+        'adj_t','wab'
     ]
 
     table = table[table['rk']!='Rk'].copy()
@@ -55,7 +56,8 @@ def main() -> None:
     2019,
     2021,
     2022,
-    2023
+    2023,
+    2024
          ]
 
     out = pd.DataFrame()
