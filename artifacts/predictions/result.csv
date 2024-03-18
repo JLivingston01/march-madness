@@ -1,364 +1,363 @@
-TEAM,OUTCOME_PREDICTED
-Houston,10.376
-Alabama,14.46
-Arizona,19.266
-Kansas,21.73
-Purdue,22.216
-Saint Marys,26.458
-San Diego St,29.23
-Tennessee,29.768
-Gonzaga,31.312
-Marquette,34.864
-UCLA  A  Colorado,35.278
-Baylor,35.404
-Texas,35.71
-Connecticut,36.696
-Kansas St,42.544
-Texas AM,43.816
-Memphis  H  Cincinnati,46.754
-Arkansas,48.158
-Duke,50.432
-Maryland  H  Northwestern,55.032
-Kentucky,58.052
-New Mexico,58.808
-TCU,59.236
-Xavier,59.954
-Creighton,60.284
-Virginia,60.472
-College of Charleston,62.168
-Michigan St,62.654
-Florida Atlantic,62.98
-Miami FL,63.252
-Auburn,63.552
-Providence  A  Georgetown,65.816
-Indiana,66.528
-Utah St,66.976
-Boise St,68.532
-Nevada,69.496
-North Carolina St,69.872
-USC,71.82
-Illinois  A  Ohio St,72.088
-Northwestern  A  Maryland,73.116
-Tulane  H  Wichita St,74.664
-Iowa St,76.088
-Iona  H  Siena,76.184
-Rutgers  A  Penn St,78.432
-Oral Roberts,78.744
-Drake  A  Bradley,80.948
-Liberty,81.944
-North Carolina,82.404
-UMass Lowell,83.248
-Indiana St  H  Missouri St,83.352
-Kent St,84.072
-Vermont,84.36
-Missouri,85.028
-Arizona St,86.232
-VCU,87.824
-UNC Asheville,87.888
-Fordham,88.328
-West Virginia,89.016
-Marshall,89.712
-Iowa,89.816
-Penn St  H  Rutgers,90.024
-Mississippi St,90.824
-Utah,93.008
-Cincinnati  A  Memphis,93.736
-Southern Miss,94.136
-Clemson,94.272
-Furman,94.44
-Hofstra,94.616
-Kennesaw St,95.08
-Louisiana Lafayette,95.248
-Sam Houston St,95.708
-Wisconsin  A  Michigan,96.568
-Youngstown St,97.456
-Pittsburgh,99.8
-Colgate,100.592
-Michigan  H  Wisconsin,100.76
-UAB,101.092
-Western Illinois,101.664
-North Texas,102.832
-Santa Clara,102.928
-UC Santa Barbara,103.224
-Toledo,103.36
-Utah Valley,104.256
-Grambling St,104.52
-Belmont  A  Northern Iowa,104.672
-Fairleigh Dickinson,105.352
-Northwestern St,105.752
-Eastern Washington,106.056
-Bradley  H  Drake,106.512
-UNC Wilmington,106.744
-Dayton,107.08
-Montana St,107.768
-Duquesne  H  Davidson,110.0
-Washington  A  Stanford,110.648
-Southern Illinois  A  Illinois Chicago,111.36
-Queens,111.464
-Yale,111.48
-Cleveland St,111.544
-Texas Tech,111.968
-Fort Wayne,112.104
-Cal St Fullerton,112.32
-Norfolk St,113.04
-South Dakota St,113.056
-Notre Dame,113.152
-Rice,113.72
-Hawaii,113.784
-North Carolina Central,114.064
-Oregon,114.152
-San Jose St,114.448
-Oklahoma St,114.824
-UCF  A  Tulsa,115.08
-Samford,115.312
-Charlotte,115.584
-Towson,115.696
-UC Irvine,115.736
-Ball St,116.144
-Siena  A  Iona,116.216
-Quinnipiac  H  Manhattan,116.384
-Saint Louis,116.392
-Milwaukee,116.688
-Morehead St,116.704
-UC Riverside,117.152
-Lipscomb,117.488
-UC Davis,117.648
-James Madison,117.736
-Vanderbilt,117.984
-Stetson,118.056
-St Thomas,118.68
-Northern Kentucky,118.704
-Ohio,118.784
-Seattle,118.936
-Alcorn St,119.232
-Murray St  H  Valparaiso,119.784
-Eastern Kentucky,119.784
-South Alabama,119.96
-Longwood,120.096
-Syracuse,120.224
-Howard,120.288
-UMBC,120.32
-Drexel,120.576
-Virginia Tech,120.936
-Maryland Eastern Shore,121.104
-Princeton,121.144
-St Johns,121.312
-North Alabama,121.336
-Old Dominion,122.048
-Tennessee Martin,122.08
-Nebraska,122.416
-Oklahoma,122.48
-George Washington,123.048
-Washington St,123.192
-Akron,123.536
-Rider  H  Mount St Marys,123.72
-Wagner,124.248
-Navy,124.288
-Portland,124.416
-Prairie View AM,124.544
-Southern,124.544
-Georgia,124.792
-Wake Forest,124.872
-Wichita St  A  Tulane,124.912
-Southeastern Louisiana,124.984
-American,125.0
-Seton Hall,125.248
-Appalachian St,125.248
-Tennessee St,125.328
-UNLV,125.512
-Brown,125.512
-Stephen F Austin  H  Cal Baptist,125.632
-UNC Greensboro,125.704
-George Mason,125.728
-Colorado  H  UCLA,125.912
-Texas AM Corpus Chris,125.912
-North Dakota St,125.952
-Western Carolina,126.08
-Loyola Marymount,126.216
-Delaware,126.216
-Villanova,126.304
-SIU Edwardsville,126.336
-Radford,126.352
-New Hampshire,126.352
-Wofford,126.464
-Harvard,126.56
-Penn,126.592
-Lehigh,126.64
-Cornell,126.648
-Florida Gulf Coast,126.856
-Wright St,126.856
-Troy,126.856
-Bethune Cookman,126.976
-Cal Baptist  A  Stephen F Austin,127.032
-San Francisco,127.104
-Mississippi Valley St,127.104
-Weber St,127.112
-Middle Tennessee,127.12
-UT Rio Grande Valley,127.128
-Richmond,127.232
-Montana,127.264
-Louisiana Monroe,127.28
-Southern Utah,127.36
-Winthrop,127.36
-Grand Canyon,127.36
-Bryant,127.368
-Ohio St  H  Illinois,127.488
-Hampton,127.488
-Denver,127.488
-St Francis PA,127.52
-Northern Iowa  H  Belmont,127.616
-Coastal Carolina,127.616
-Colorado St,127.616
-Georgia St,127.616
-Niagara  H  Saint Peters,127.624
-St Francis NY,127.624
-Air Force,127.64
-Georgia Southern,127.744
-Tarleton St,127.744
-Morgan St,127.744
-North Florida,127.744
-Georgia Tech,127.752
-Sacred Heart,127.752
-Georgetown  H  Providence,127.872
-Boston University,127.872
-Missouri St  A  Indiana St,127.872
-Butler,127.872
-South Dakota,127.872
-East Carolina,127.872
-Lafayette,127.872
-Oakland,127.872
-Florida,127.872
-Massachusetts,127.872
-Utah Tech,127.872
-North Carolina AT,127.88
-Minnesota,127.88
-Merrimack,127.88
-Fairfield  A  Canisius,127.88
-Sacramento St,127.88
-Manhattan  A  Quinnipiac,128.0
-Texas Southern,128.0
-Idaho,128.0
-Arkansas St,128.0
-Texas AM Commerce,128.0
-Northeastern,128.0
-Cal Poly,128.0
-Jackson St,128.0
-High Point,128.0
-Elon,128.0
-William  Mary,128.0
-Binghamton,128.0
-Marist,128.0
-Eastern Michigan,128.0
-UMKC,128.0
-Chicago St,128.0
-South Florida,128.0
-Buffalo,128.0
-Saint Peters  A  Niagara,128.0
-Central Connecticut,128.0
-Lindenwood,128.0
-Houston Christian,128.0
-Evansville  A  Illinois St,128.0
-Coppin St,128.0
-Albany,128.0
-Eastern Illinois,128.0
-Alabama St,128.0
-VMI,128.0
-Delaware St,128.0
-Monmouth,128.0
-Florida AM,128.0
-Lamar,128.0
-IUPUI,128.0
-Green Bay,128.0
-Holy Cross,128.0
-Columbia,128.0
-Presbyterian,128.0
-Stony Brook,128.0
-Alabama AM,128.0
-Nebraska Omaha,128.0
-Stonehill,128.0
-NJIT,128.0
-Cal St Northridge,128.0
-Loyola MD,128.0
-The Citadel,128.0
-Arkansas Pine Bluff,128.0
-Western Michigan,128.0
-McNeese St,128.0
-Little Rock,128.0
-Central Arkansas,128.0
-Incarnate Word,128.0
-Central Michigan,128.0
-South Carolina St,128.0
-New Orleans,128.0
-Austin Peay,128.0
-Charleston Southern,128.0
-Maine,128.0
-Bucknell,128.0
-Loyola Chicago,128.0
-Mercer,128.0
-Detroit,128.0
-Rhode Island,128.0
-Portland St,128.0
-Jacksonville,128.0
-Army,128.0
-La Salle,128.0
-Texas St,128.0
-Oregon St,128.0
-DePaul,128.0
-FIU,128.0
-SMU,128.0
-Western Kentucky,128.0
-San Diego,128.0
-New Mexico St,128.0
-Florida St,128.0
-Pepperdine,128.0
-Stanford  H  Washington,128.0
-Hartford,128.0
-Pacific,128.0
-Saint Josephs  A  St Bonaventure,128.0
-St Bonaventure  H  Saint Josephs,128.0
-Wyoming,128.0
-BYU,128.0
-UTEP,128.0
-Abilene Christian,128.0
-Temple,128.0
-Louisiana Tech,128.0
-Gardner Webb,128.0
-Chattanooga,128.0
-Boston College,128.0
-Northern Colorado,128.0
-UT Arlington,128.0
-UC San Diego,128.0
-Long Beach St,128.0
-Canisius  H  Fairfield,128.0
-Southeast Missouri St,128.0
-Fresno St,128.0
-Mount St Marys  A  Rider,128.0
-North Dakota,128.0
-Illinois Chicago  H  Southern Illinois,128.0
-Dartmouth,128.0
-Louisville,128.0
-Cal St Bakersfield,128.0
-Valparaiso  A  Murray St,128.0
-Tennessee Tech,128.0
-Miami OH,128.0
-Illinois St  H  Evansville,128.0
-Tulsa  H  UCF,128.0
-UTSA,128.0
-Southern Indiana,128.0
-USC Upstate,128.0
-Campbell,128.0
-East Tennessee St,128.0
-South Carolina,128.0
-Jacksonville St,128.0
-Northern Arizona,128.0
-Idaho St,128.0
-California,128.0
-Northern Illinois,128.0
-Nicholls St,128.0
-Bellarmine,128.0
-Bowling Green,128.0
-Mississippi,128.0
-Davidson  A  Duquesne,128.0
-LSU,128.0
-Robert Morris,128.0
-LIU Brooklyn,128.0
+team,OUTCOME_PREDICTED
+Houston,10.86623024857177
+Connecticut,10.415547757419167
+Purdue,10.62314703211888
+Auburn,12.218200955489754
+Iowa St,14.068579218365375
+Arizona,15.1206716964774
+Tennessee,26.234006710257262
+Marquette,30.363956791274475
+North Carolina,24.850622571929676
+Creighton,30.39019297856659
+Duke,27.41061947843809
+Illinois,26.03447350627948
+Alabama,35.829682656182165
+Saint Marys,34.071087232264745
+BYU,38.47711509707044
+Kansas,45.85863817402447
+Gonzaga,33.9831009425043
+Baylor,40.30319501756168
+Michigan St,61.273539898746556
+Wisconsin,48.4573236632402
+St Johns,47.291331442812044
+Texas,52.87692575687727
+Florida,45.61409469509576
+Kentucky,50.94040042510031
+Nebraska,51.366589729279916
+New Mexico,44.32931507789886
+Colorado,52.146523218149966
+Texas Tech,51.24756314062541
+San Diego St,50.36061228657501
+Mississippi St,51.37879049238769
+Villanova,93.26613200874652
+Clemson,54.052334106391065
+Ohio St,69.74220485109599
+TCU,53.44382990351094
+Dayton,54.72627276654872
+Northwestern,57.75028911065756
+Nevada,49.49465101840199
+Wake Forest,78.15895828365973
+Utah,86.35037487313394
+Oklahoma,57.69321056320304
+Boise St,59.7843107084817
+Colorado St,56.89222174067134
+Indiana St,60.65369344680853
+Cincinnati,86.40773482558404
+Pittsburgh,58.56617694196565
+Washington St,62.006197299036856
+Texas AM,74.43782714882012
+South Carolina,52.77897660297415
+Florida Atlantic,57.804877427388845
+Iowa,106.28070493623156
+Providence,104.06949340227274
+Butler,119.46720264962052
+Drake,54.58157172955589
+Utah St,56.35748092801282
+Virginia,97.08866141619639
+Virginia Tech,113.69131622856423
+Xavier,126.55280085576362
+Seton Hall,100.14685181103916
+Oregon,79.38752106095099
+Washington,122.06045904688524
+Bradley,104.88037080069729
+UCF,125.8048107776933
+SMU,108.99410385252939
+North Texas,125.29548188665137
+Kansas St,120.3066076705484
+North Carolina St,112.9330167480789
+Maryland,126.57211830165801
+James Madison,51.3400419909517
+San Francisco,102.00705999417745
+Grand Canyon,60.001202487184464
+Mississippi,112.97352145504541
+USC,127.7228607591881
+UNLV,116.28459118472736
+Richmond,101.98485283922146
+Miami FL,127.69908787843963
+Minnesota,120.57496519382875
+Georgia,126.6661589388388
+Syracuse,115.61987349735702
+Penn St,127.03652411082294
+Duquesne,111.1504996879337
+McNeese St,52.53765026202642
+Princeton,68.1912230898653
+Indiana,121.08102735242315
+LSU,125.45275271490435
+Boston College,121.5118335199261
+Florida St,126.6367803968446
+Yale,107.37088883125861
+VCU,115.31155040080414
+Samford,67.29830405993567
+UC Irvine,104.59723068971016
+Louisiana Tech,111.91494152010108
+Memphis,107.273737940452
+Saint Josephs,115.65832585579653
+Loyola Chicago,106.56920051988395
+Massachusetts,112.83817773311266
+George Mason,116.98814368182924
+UCLA,127.71312194223621
+Appalachian St,92.43742109706736
+St Bonaventure,116.6301879629461
+South Florida,98.75041536683077
+Rutgers,127.72079887788033
+Stanford,127.72579499486983
+College of Charleston,95.82204161579705
+Charlotte,119.45785333691724
+Michigan,127.7934949769714
+Oklahoma St,127.76057227652757
+Arkansas,127.04638295568178
+Northern Iowa,122.24242998629732
+Cornell,99.22557986039034
+Western Carolina,111.94037338186148
+Southern Illinois,121.25642978230921
+Hofstra,120.7674481815318
+Vermont,99.2081844303818
+Belmont,120.5121294115612
+UAB,112.4541556141864
+California,127.73155100894128
+Davidson,127.73168407899622
+Santa Clara,120.27054591613366
+UNC Wilmington,113.82806839649136
+Georgia Tech,127.7240071433521
+High Point,99.40385478519211
+Arizona St,127.75815040152756
+Seattle,123.2795044731983
+Troy,121.44688417180615
+UC San Diego,115.94778726564974
+Drexel,117.72336710766753
+Akron,107.58646181620873
+West Virginia,127.7934949769714
+UT Arlington,121.87141247024223
+Missouri,127.7934949769714
+Notre Dame,127.75763804084583
+Western Kentucky,116.68562416285995
+Morehead St,97.69196045825984
+Wichita St,127.7240071433521
+Oakland,108.33680264699647
+Liberty,125.39885782476236
+South Dakota St,117.3255453966592
+Youngstown St,113.99934057878961
+UNC Greensboro,113.13820372140343
+Arkansas St,125.20907764183534
+St Thomas,122.25370529343833
+Tulane,127.72694137903383
+Louisiana Lafayette,123.8249276660824
+Sam Houston St,119.31739525931926
+Missouri St,126.72156093645232
+Towson,122.8982253049998
+Toledo,114.11568369887986
+Wright St,123.78715360494469
+Murray St,127.76057227652757
+Oregon St,127.76057227652757
+Ohio,120.46496847631184
+Delaware,123.54756748540554
+Weber St,121.22431749238953
+Montana,110.62620743647442
+Furman,126.41622223140726
+Tarleton St,111.1259071592686
+Wyoming,127.7240071433521
+Eastern Washington,111.27325860059358
+Chattanooga,117.27988904179273
+UC Davis,123.13514383332549
+Winthrop,127.61992117358791
+UMass Lowell,113.92264565452791
+Colgate,102.94197602438699
+Quinnipiac,104.95381114271873
+Stony Brook,122.58100349760544
+East Carolina,127.73168407899622
+Kent St,127.71197555807221
+Bryant,123.03089605228882
+Longwood,121.21073102126292
+UNC Asheville,119.09805235926942
+UTEP,127.71312194223621
+Hawaii,122.81755651557374
+Illinois Chicago,127.7934949769714
+Loyola Marymount,127.73704018967796
+Georgetown,127.7934949769714
+Saint Louis,127.73704018967796
+Fort Wayne,119.0943174028405
+Stephen F Austin,125.58912770343639
+La Salle,127.71197555807221
+Texas AM Corpus Chris,119.06405177313277
+Fordham,127.75763804084583
+Penn,127.7934949769714
+Utah Valley,127.73168407899622
+Rhode Island,127.76119849961955
+Temple,127.73168407899622
+Fairfield,110.73245331810526
+George Washington,127.7228607591881
+East Tennessee St,125.68682787369238
+Monmouth,123.97278605944751
+Long Beach St,120.51624603137387
+Vanderbilt,127.7934949769714
+Rice,127.7934949769714
+Pepperdine,127.76119849961955
+Little Rock,108.75314110964666
+Gardner Webb,127.7228607591881
+Tulsa,126.60496902005751
+Louisville,127.7934949769714
+Brown,127.73473217708819
+Northern Kentucky,125.46938623397475
+Radford,127.7228607591881
+Eastern Kentucky,125.88907490090172
+Cleveland St,120.67494614879566
+Harvard,126.65053368005093
+Jacksonville St,127.75826426393782
+Texas St,127.7240071433521
+Illinois St,127.75521616584584
+Columbia,127.72463336644408
+Montana St,127.16207985303559
+Saint Peters,121.11244928311893
+San Jose St,127.7934949769714
+Northern Colorado,121.58554585810114
+Lipscomb,113.16787447832067
+Northeastern,127.75826426393782
+UMKC,127.7240071433521
+Abilene Christian,127.7240071433521
+Marist,122.19572932986102
+Evansville,127.71605617791795
+Mercer,127.7228607591881
+Merrimack,121.11584964071174
+Cal Baptist,127.7240071433521
+Wofford,127.29396095929955
+Iona,126.83271202862278
+South Alabama,127.69908787843963
+Georgia St,127.7323103020882
+Mount St Marys,127.72705524144409
+Air Force,127.7934949769714
+Cal St Fullerton,127.76119849961955
+Bowling Green,121.78264447140663
+UC Santa Barbara,127.29396095929955
+Stetson,110.27812290122145
+UC Riverside,127.72331649401609
+Fresno St,127.7934949769714
+Marshall,127.75826426393782
+Rider,127.72331649401609
+North Dakota,125.7241242995233
+Cal St Northridge,125.29913050906849
+Norfolk St,115.69437227056123
+Tennessee Martin,117.43500506489154
+North Florida,127.72510434553382
+Nicholls St,123.26826531105786
+Southern,126.41074829940408
+Lamar,122.4128839081306
+Canisius,127.72463336644408
+Maine,127.73392766534194
+San Diego,126.52027200476579
+Portland St,127.7124312929002
+UTSA,127.7934949769714
+Austin Peay,125.55539614178993
+Miami OH,127.72625072969782
+Albany,127.75826426393782
+Florida Gulf Coast,127.73217723203325
+Green Bay,124.80315108240268
+Milwaukee,122.91424274599302
+Southern Miss,127.72331649401609
+Southern Utah,127.7934949769714
+Idaho St,127.75826426393782
+Cal St Bakersfield,127.79056074128967
+North Dakota St,127.72756760212582
+Ball St,127.72217010985209
+Middle Tennessee,127.76119849961955
+Western Illinois,121.07911077062239
+Queens,127.76119849961955
+Nebraska Omaha,127.76119849961955
+North Alabama,127.72331649401609
+New Hampshire,126.58622783098117
+Howard,125.49396731436089
+Kennesaw St,127.72331649401609
+North Carolina Central,125.48063387367053
+Denver,127.72331649401609
+Oral Roberts,127.7934949769714
+Central Michigan,123.8478112959545
+Lehigh,127.76119849961955
+The Citadel,127.7934949769714
+New Mexico St,127.7934949769714
+Portland,127.7934949769714
+Central Connecticut,116.65463377318544
+Binghamton,127.72331649401609
+UMBC,127.7934949769714
+Utah Tech,127.7934949769714
+Bucknell,127.72331649401609
+Georgia Southern,127.7934949769714
+Niagara,127.68254493735178
+SIU Edwardsville,127.72331649401609
+USC Upstate,127.7934949769714
+Texas Southern,127.7124312929002
+Grambling St,123.65102974362357
+DePaul,127.7934949769714
+Tennessee St,127.7124312929002
+Northern Illinois,127.7934949769714
+FIU,127.7934949769714
+American,127.5421706827405
+Old Dominion,127.7934949769714
+Valparaiso,127.7934949769714
+Presbyterian,127.76119849961955
+Louisiana Monroe,127.7934949769714
+Sacred Heart,127.72217010985209
+Boston University,127.7124312929002
+Chicago St,127.7934949769714
+Bellarmine,127.7934949769714
+Wagner,127.7124312929002
+Jacksonville,127.72331649401609
+Alcorn St,127.72463336644408
+Jackson St,127.01301510383735
+Delaware St,127.75584238893782
+South Carolina St,127.22575535384546
+Elon,127.76119849961955
+Southeastern Louisiana,127.72463336644408
+Campbell,127.76119849961955
+Idaho,127.7934949769714
+Sacramento St,127.7934949769714
+Robert Morris,127.7934949769714
+Coastal Carolina,127.7934949769714
+Le Moyne,127.72756760212582
+Bethune Cookman,127.7124312929002
+South Dakota,127.7934949769714
+Western Michigan,127.79056074128967
+William  Mary,127.7934949769714
+Northern Arizona,127.75745975219156
+Alabama St,127.7934949769714
+Charleston Southern,127.7934949769714
+Eastern Illinois,127.7934949769714
+Lafayette,127.7934949769714
+Eastern Michigan,127.7934949769714
+Northwestern St,127.7934949769714
+Navy,127.75826426393782
+New Orleans,127.7934949769714
+NJIT,127.7934949769714
+Southern Indiana,127.7934949769714
+UT Rio Grande Valley,127.7934949769714
+Hampton,127.7934949769714
+Dartmouth,127.7934949769714
+Arkansas Pine Bluff,127.7934949769714
+Manhattan,127.7934949769714
+Texas AM Commerce,127.7934949769714
+Fairleigh Dickinson,127.72331649401609
+Central Arkansas,127.7934949769714
+Morgan St,127.7934949769714
+Alabama AM,127.7934949769714
+Incarnate Word,127.7934949769714
+Cal Poly,127.7934949769714
+North Carolina AT,127.7934949769714
+Loyola MD,127.7934949769714
+Tennessee Tech,127.7934949769714
+Prairie View AM,127.7934949769714
+Army,127.7934949769714
+Florida AM,127.7934949769714
+LIU Brooklyn,127.7934949769714
+Buffalo,127.7934949769714
+Detroit,127.7934949769714
+Holy Cross,127.7934949769714
+Pacific,127.7934949769714
+Houston Christian,127.7934949769714
+Maryland Eastern Shore,127.7934949769714
+Lindenwood,127.7934949769714
+Siena,127.7934949769714
+Southeast Missouri St,127.7934949769714
+VMI,127.7934949769714
+Stonehill,127.7934949769714
+St Francis PA,127.7934949769714
+IUPUI,127.7934949769714
+Coppin St,127.7934949769714
+Mississippi Valley St,127.7934949769714
